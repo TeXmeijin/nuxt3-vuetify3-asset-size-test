@@ -1,3 +1,3 @@
-# nuxt-starter-8gkydx
+# 目的
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-8gkydx)
+Nuxt3+Vuetify3 の環境構築と、バンドルサイズや CSS のルールセット数を測定するために作成しました。
